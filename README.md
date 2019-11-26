@@ -1,6 +1,6 @@
 # Windows 7 - 10 Keyboard Layout Monitor (WTL)
 
-![Screenshot](https://github.com/evgen-b/kelamon/INST/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/evgen-b/kelamon/master/INST/screenshot.png)
 
 A keyboard layout indicator for Windows 7 - 10.
 Select windows border color for each keyboard layout.
