@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keyboard Layout Monitor", "Windows 10 color control.vcxproj", "{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hooker", "Hooker\Hooker.vcxproj", "{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookerWatcher", "HookerWatcher\HookerWatcher.vcxproj", "{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Debug|Win32.Build.0 = Debug|Win32
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Debug|x64.ActiveCfg = Debug|x64
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Debug|x64.Build.0 = Debug|x64
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Release|Win32.ActiveCfg = Release|Win32
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Release|Win32.Build.0 = Release|Win32
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Release|x64.ActiveCfg = Release|x64
+		{061B222E-C4C7-4D0C-BA86-C5AE0DB151F1}.Release|x64.Build.0 = Release|x64
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Debug|Win32.Build.0 = Debug|Win32
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Debug|x64.ActiveCfg = Debug|x64
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Debug|x64.Build.0 = Debug|x64
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Release|Win32.ActiveCfg = Release|Win32
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Release|Win32.Build.0 = Release|Win32
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Release|x64.ActiveCfg = Release|x64
+		{44A88100-2E10-4AC8-9EC0-2CFA90267BE7}.Release|x64.Build.0 = Release|x64
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Debug|Win32.Build.0 = Debug|Win32
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Debug|x64.ActiveCfg = Debug|Win32
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Release|Win32.ActiveCfg = Release|Win32
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Release|Win32.Build.0 = Release|Win32
+		{A4F8C119-B0A9-4CD7-A965-55F7B309BB9E}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

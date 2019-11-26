@@ -1,0 +1,6 @@
+﻿;!@Install@!UTF-8!
+SetEnvironment="inst_sfx_path=%%S"
+SetEnvironment="inst_sfx_name=%%M"
+ExecuteFile="wScript.exe"
+ExecuteParameters="KeyboardLayoutMonitor.vbs /NOUAC"
+;!@InstallEnd@!

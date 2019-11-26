@@ -1,0 +1,1 @@
+start "1" "%~dp0KeyboardLayoutMonitor.exe" -auto
